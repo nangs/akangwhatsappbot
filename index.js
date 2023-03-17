@@ -51,7 +51,7 @@ const client = new Client({
 // app.get('/', async (req, res) => {
 
 
-//    // var img = "https://va.bankjogja.com/Images/logo.png";
+
 //     res.send('<h2>QRCode Generated</h2><div><img src="http://localhost:3000/qrcodes.png"/></div>')
 
 
