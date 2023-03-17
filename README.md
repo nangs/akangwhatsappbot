@@ -1,10 +1,4 @@
-# Bot Whatsapp
-
-## Don't Forget Follow [Tiktok](https://www.tiktok.com/@try_catch_), [Instagram](https://www.instagram.com/try.catch.developer/) and [Youtube](https://www.youtube.com/c/TryCatchDev)
-
-# [Watch it on YouTube](https://www.youtube.com/watch?v=p0g8qAFgOLA)
-
-![Preview](/demo/demo1.jpeg)
+# Akang Bot Whatsapp
 
 ## How to run project?
 - Change file `config.js`
@@ -18,4 +12,5 @@ or RUN `npm run dev` for development
 Command  | Example
 ------------- | -------------
 `#edit_bg/bg_color`  | `#edit_bg/blue`
-`#ask/question`  | `#ask/cara koneksi golang dengan mysql?`
+`kang.question`  | `kang. cara koneksi golang dengan mysql?`
+`img.question`  | `img. kucing hitam?`
