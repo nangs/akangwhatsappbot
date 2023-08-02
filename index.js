@@ -57,7 +57,7 @@ const client = new Client({
 
 // });
 
-client.on('qr', (qr) => {
+client.eon('qr', (qr) => {
     QRCode.toFile('qrcode.png', qr, {
         errorCorrectionLevel: 'H',
         type: 'png',
